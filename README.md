@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Analyzer ⚡
 
 An intelligent, full-featured Python application built with **LLM (Google Gemini)**, **Prompt Engineering**, **NLP**, and **ATS Scoring Algorithms**.
@@ -81,3 +82,6 @@ streamlit run app.py
 ```
 
 Open your browser at `http://localhost:8501`.
+=======
+# AI-Resume-Analyzer
+>>>>>>> bb8001837bae74f0609f88304d72b7f5dc9f2155
