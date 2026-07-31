@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Resume Analyzer ⚡
 
 An intelligent, full-featured Python application built with **LLM (Google Gemini)**, **Prompt Engineering**, **NLP**, and **ATS Scoring Algorithms**.
@@ -8,6 +7,16 @@ An intelligent, full-featured Python application built with **LLM (Google Gemini
 ![Google Gemini](https://img.shields.io/badge/Gemini-LLM-brightgreen?style=flat-square)
 
 ---
+
+## 👩‍💻 Tech Stack
+- Python
+- LLM
+- Prompt Engineering
+- NLP
+- Streamlit
+  
+---
+
 
 ## 🌟 Key Features
 
@@ -37,6 +46,8 @@ An intelligent, full-featured Python application built with **LLM (Google Gemini
 
 ---
 
+
+
 ## 📁 Directory Structure
 
 ```
@@ -55,33 +66,25 @@ ai-resume-analyzer/
     └── sample_data.py          # Pre-loaded sample resumes & job descriptions
 ```
 
----
+## 📊 Workflow
 
-## 🚀 Quick Start Guide
+1. Upload Resume
+2. Extract Resume Text
+3. Compare with Job Description
+4. Generate ATS Score
+5. Identify Skill Gaps
+6. Recommend Resume Improvements
 
-### 1. Set Up Virtual Environment & Dependencies
+## 📈 Output
 
+- ATS Compatibility Score
+- Missing Skills
+- Resume Summary
+- Personalized Suggestions
+
+## ⚙️ Installation
 ```bash
-# Navigate to project directory
-cd C:\Users\baika\.gemini\antigravity-ide\scratch\ai-resume-analyzer
-
-# Create virtual environment
-python -m venv .venv
-
-# Activate virtual environment (Windows PowerShell)
-.venv\Scripts\Activate.ps1
-
-# Install requirements
+git clone https://github.com/BRoshini-15/AI-Resume-Analyzer.git
+cd AI-Resume-Analyzer
 pip install -r requirements.txt
-```
-
-### 2. Launch the Application
-
-```bash
 streamlit run app.py
-```
-
-Open your browser at `http://localhost:8501`.
-=======
-# AI-Resume-Analyzer
->>>>>>> bb8001837bae74f0609f88304d72b7f5dc9f2155
